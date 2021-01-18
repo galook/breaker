@@ -1,0 +1,19 @@
+{
+  "name": "breaker",
+  "version": "0.0.1",
+  "description": "Quvia Detonator backend, used for access to the quvia public DB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galook/breaker.git"
+  },
+  "author": "galook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galook/breaker/issues"
+  },
+  "homepage": "https://github.com/galook/breaker#readme"
+}
