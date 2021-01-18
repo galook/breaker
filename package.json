@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/galook/breaker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "server.js": "^1.0.0"
   }
 }
