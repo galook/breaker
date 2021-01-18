@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/galook/breaker/issues"
   },
-  "homepage": "https://github.com/galook/breaker#readme"
+  "homepage": "https://github.com/galook/breaker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
